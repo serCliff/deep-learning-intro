@@ -1,0 +1,23 @@
+complete/.ipynb_checkpoints/
+complete/Autoencoders-Exercise-Complete.ipynb
+complete/keras_sentiment-Complete.ipynb
+complete/MusquetairesComplete.ipynb
+complete/pytorch_cifar10_tutorial-Complete.ipynb
+complete/VAE_MNIST-Complete.ipynb
+# complete/CIFAR10-Complete.ipynb
+complete/ModelExampleComplete.ipynb
+complete/Practica0Complete.ipynb
+complete/transfer-learning-Complete.ipynb
+training/.ipynb_checkpoints/
+training/Autoencoders-Exercise-Training.ipynb
+training/CIFAR10-Training.ipynb
+training/ModelExampleTraining.ipynb
+training/MusquetairesTraining.ipynb
+training/Practica0Training.ipynb
+training/VAE_MNIST-Training.ipynb
+training/keras_sentiment-Training.ipynb
+training/pytorch_cifar10_tutorial-Training.ipynb
+training/transfer-learning-Training.ipynb
+
+
+datasets/cats_dogs_horses/
